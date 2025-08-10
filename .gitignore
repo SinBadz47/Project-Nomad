@@ -3,6 +3,6 @@
 *.apk
 
 Saved/*
-Intermidiate/*
+Intermediate/*
 Binaries/*
 Build/*
